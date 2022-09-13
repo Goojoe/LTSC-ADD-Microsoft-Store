@@ -11,38 +11,38 @@ LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044
 
 ```bash
 # Github官方,较慢
-git clone https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://github.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
 # 国内的镜像,任选其一
-git clone https://gitclone.com/github.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://gitclone.com/github.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://kgithub.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://kgithub.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://ghproxy.com/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://hub.njuu.cf/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://hub.njuu.cf/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://hub.yzuu.cf/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://hub.yzuu.cf/Goojoe/LTSC-ADD-Microsoft-Store.git
 ```
 
 2. 下载压缩包
 
 ```bash
 # Github官方,较慢
-https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
 # 国内的镜像,任选其一
-https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://cdn.githubjs.cf/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://ghps.cc/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://gh.gh2233.ml/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://gh.gh2233.ml/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://archive.fastgit.org/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://ghproxy.com/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 ```
 
 ## 更改脚本执行策略
