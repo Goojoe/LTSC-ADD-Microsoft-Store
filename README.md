@@ -1,4 +1,9 @@
 # Windows LTSC 2021 Microsoft Store 安装
+## 截图
+LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044.1865](https://www.ghxi.com/win10ltsc21h2.html)
+
+![image](https://user-images.githubusercontent.com/78355492/189969985-bb82fbd0-c25a-41f0-89b9-3a8228d6cd1f.png)
+
 
 ## 下载软件包
 
