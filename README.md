@@ -56,3 +56,8 @@ set-ExecutionPolicy RemoteSigned
 ## 执行脚本
 
 鼠标右键使用 PowerShell 运行`install-Microsoft-Store.ps1`
+
+> 所有软件来自https://store.rg-adguard.net/
+>
+> Url(Link) `https://www.microsoft.com/store/productId/9NBLGGH4NNS1` RP
+
