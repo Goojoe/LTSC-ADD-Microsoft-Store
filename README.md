@@ -4,7 +4,7 @@ LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044
 
 ![image](https://user-images.githubusercontent.com/78355492/189969985-bb82fbd0-c25a-41f0-89b9-3a8228d6cd1f.png)
 
-## 下载软件包
+## 🔽下载软件包
 
 ### 1.下载压缩包
 
@@ -62,4 +62,4 @@ set-ExecutionPolicy RemoteSigned
 
 版权属于Microsoft,禁止商用
 
-不允许转载后的内容需要”回复“、”登录“、”关注公众号“、”积分购买“以及其他任何不能直接下载的形式,才能展现
+⚠️不允许转载后的内容需要”回复“、”登录“、”关注公众号“、”积分购买“以及其他任何不能直接下载的形式,才能展现
