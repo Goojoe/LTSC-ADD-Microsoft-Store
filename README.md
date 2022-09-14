@@ -1,4 +1,9 @@
-# Windows LTSC 2021 Microsoft Store 安装
+# Windows LTSC Microsoft Store 安装
+## 截图
+LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044.1865](https://www.ghxi.com/win10ltsc21h2.html)
+
+![image](https://user-images.githubusercontent.com/78355492/189969985-bb82fbd0-c25a-41f0-89b9-3a8228d6cd1f.png)
+
 
 ## 下载软件包
 
@@ -6,38 +11,38 @@
 
 ```bash
 # Github官方,较慢
-git clone https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://github.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
 # 国内的镜像,任选其一
-git clone https://gitclone.com/github.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://gitclone.com/github.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://kgithub.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://kgithub.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://ghproxy.com/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://hub.njuu.cf/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://hub.njuu.cf/Goojoe/LTSC-ADD-Microsoft-Store.git
 
-git clone https://hub.yzuu.cf/Goojoe/LTSC2021-ADD-Microsoft-Store.git
+git clone https://hub.yzuu.cf/Goojoe/LTSC-ADD-Microsoft-Store.git
 ```
 
 2. 下载压缩包
 
 ```bash
 # Github官方,较慢
-https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
 # 国内的镜像,任选其一
-https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://cdn.githubjs.cf/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://ghps.cc/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://gh.gh2233.ml/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://gh.gh2233.ml/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://archive.fastgit.org/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 
-https://ghproxy.com/https://github.com/Goojoe/LTSC2021-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 ```
 
 ## 更改脚本执行策略
@@ -56,3 +61,8 @@ set-ExecutionPolicy RemoteSigned
 ## 执行脚本
 
 鼠标右键使用 PowerShell 运行`install-Microsoft-Store.ps1`
+
+> 所有软件来自https://store.rg-adguard.net/
+>
+> Url(Link) `https://www.microsoft.com/store/productId/9NBLGGH4NNS1` RP
+
