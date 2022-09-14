@@ -60,6 +60,6 @@ set-ExecutionPolicy RemoteSigned
 
 # 关于转载
 
-版权属于Microsfot,禁止商用
+版权属于Microsoft,禁止商用
 
 不允许转载后的内容需要”回复“、”登录“、”关注公众号“、”积分购买“以及其他任何不能直接下载的形式,才能展现
