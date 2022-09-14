@@ -29,20 +29,20 @@ git clone https://hub.yzuu.cf/Goojoe/LTSC-ADD-Microsoft-Store.git
 
 ```bash
 # Github官方,较慢
-https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 
 # 国内的镜像,任选其一
-https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 
-https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 
-https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 
-https://gh.gh2233.ml/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://gh.gh2233.ml/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 
-https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 
-https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
+https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip
 ```
 
 ## 更改脚本执行策略
