@@ -12,12 +12,15 @@ LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044
 
 ✨镜像地址(国内推荐)
 
-- [ghdl.feizhuqwq.cf](https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
-- [cdn.githubjs.cf](https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
-- [ghps.cc](https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
-- [gh.gh2233.ml](https://gh.gh2233.ml/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
-- [archive.fastgit.org](https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
-- [ghproxy.com](https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
+| .7z                                                          | .zip                                                         | 备注                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [ghdl.feizhuqwq.cf](https://ghdl.feizhuqwq.cf/https:/github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [ghdl.feizhuqwq.cf](https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) | `.7z`有较小的体积,`.zip`兼容性较好<br/>推荐解压软件[7zip(南京大学镜像)](https://mirrors.nju.edu.cn/7-zip/7z2201-x64.exe) |
+| [cdn.githubjs.cf](https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [cdn.githubjs.cf](https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) | 参考大小:<br/>.7z 460 MB<br/>.zip 544 MB                     |
+| [ghps.cc](https://ghps.cc/https:/github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [ghps.cc](https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) |                                                              |
+| [archive.fastgit.org](https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [archive.fastgit.org](https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) |                                                              |
+| [ghproxy.com](https://ghproxy.com/https:/github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [ghproxy.com](https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) |                                                              |
+
+
 
 ### 2.使用Git下载
 
