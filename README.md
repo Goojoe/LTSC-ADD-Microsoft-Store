@@ -1,6 +1,6 @@
 # Windows LTSC Microsoft Store 安装
 ## 截图
-LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044.1865](https://www.ghxi.com/win10ltsc21h2.html)
+LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044.2075](https://www.ghxi.com/win10ltsc21h2.html)
 
 ![image](https://user-images.githubusercontent.com/78355492/189969985-bb82fbd0-c25a-41f0-89b9-3a8228d6cd1f.png)
 
@@ -8,19 +8,7 @@ LTSC2021测试通过,系统来源[Windows 10 企业版2021 LTSC 21H2 Build 19044
 
 ### 1.下载压缩包
 
-- [Github官方,较慢](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip)
-
 ✨镜像地址(国内推荐)
-
-| .7z                                                          | .zip                                                         | 备注                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ghdl.feizhuqwq.cf](https://ghdl.feizhuqwq.cf/https:/github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [ghdl.feizhuqwq.cf](https://ghdl.feizhuqwq.cf/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) | `.7z`有较小的体积,`.zip`兼容性较好<br/>推荐解压软件[7zip(南京大学镜像)](https://mirrors.nju.edu.cn/7-zip/7z2201-x64.exe) |
-| [cdn.githubjs.cf](https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [cdn.githubjs.cf](https://cdn.githubjs.cf/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) | 参考大小:<br/>.7z 460 MB<br/>.zip 544 MB                     |
-| [ghps.cc](https://ghps.cc/https:/github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [ghps.cc](https://ghps.cc/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) |                                                              |
-| [archive.fastgit.org](https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [archive.fastgit.org](https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) |                                                              |
-| [ghproxy.com](https://ghproxy.com/https:/github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.7z) | [ghproxy.com](https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/latest/download/LTSC-ADD-Microsoft-Store.zip) |                                                              |
-
-
 
 ### 2.使用Git下载
 
@@ -42,7 +30,7 @@ git clone https://hub.yzuu.cf/Goojoe/LTSC-ADD-Microsoft-Store.git
 
 # 安装商店
 
-## 更改脚本执行策略(必要)
+## 更改脚本执行策略
 
 打开powershell管理员,允许powershell(ps1)脚本
 
@@ -64,10 +52,6 @@ set-ExecutionPolicy RemoteSigned
 > 所有软件来自https://store.rg-adguard.net/
 >
 > Url(Link) `https://www.microsoft.com/store/productId/9NBLGGH4NNS1` RP
-
-下载工具:
-
-https://github.com/Gaoyifei1011/GetStoreApp
 
 # 关于转载
 
