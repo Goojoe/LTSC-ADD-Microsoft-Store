@@ -1,6 +1,6 @@
 ## Windows LTSC Microsoft Store 最新版下载安装脚本
 - Windows LTSC 2021
-- WindoLTSC 2019
+- Windows LTSC 2019
 
 测试通过
 
