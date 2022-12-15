@@ -18,7 +18,7 @@ URL = 'https://github.com/Goojoe/LTSC-ADD-Microsoft-Store'
 EMAIL = 'goojoer@gmail.com'
 AUTHOR = 'Goojoe'
 REQUIRES_PYTHON = '>=3.7'
-VERSION = '1.0.3'
+VERSION = '1.0.4'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
