@@ -4,11 +4,7 @@
 
 测试通过
 
-## 🔽下载软件包
-
-```
-pip install ltscaddstore
-```
+---
 
 ### 1.安装Python
 
@@ -19,17 +15,23 @@ pip install ltscaddstore
 
 <img src="https://i0.hdslb.com/bfs/album/470bd8fff34b02f858814bf43afe4542c51d3127.png" referrerpolicy="no-referrer">
 
+## 🔽下载软件包
+
+```
+pip install ltscaddstore -i https://mirror.sjtu.edu.cn/pypi/web/simple/
+```
+
 ### 2.运行脚本
 
 ```
 # 写入文件
 echo "import ltscaddstore" > ltscaddstore.py
-echo "ltscaddstore.download()" >> ltscaddstore.py                      
-# 
+echo "ltscaddstore.download()" >> ltscaddstore.py
+# 运行
 python ltscaddstore.py
 ```
 
----
+
 
 ## 软件来源
 
