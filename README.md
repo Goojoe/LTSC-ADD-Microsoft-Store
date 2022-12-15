@@ -6,14 +6,9 @@
 
 ## 🔽下载软件包
 
-- [Github官方](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip)
-
-✨镜像地址(国内推荐)
-
-- [FastGit](https://archive.fastgit.org/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip)
-- [ghproxy](https://ghproxy.com/https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip)
-
-## 安装Microsoft商店
+```
+pip install ltscaddstore
+```
 
 ### 1.安装Python
 
@@ -24,21 +19,14 @@
 
 <img src="https://i0.hdslb.com/bfs/album/470bd8fff34b02f858814bf43afe4542c51d3127.png" referrerpolicy="no-referrer">
 
-### 2.安装依赖
+### 2.运行脚本
 
 ```
-# 更换镜像
-pip config set global.index-url https://mirror.sjtu.edu.cn/pypi/web/simple/
-# 安装依赖
-pip install requests lxml pyperclip
-```
-
-### 3.启动脚本
-
-`shift`+`鼠标右键`打开powershell
-
-```
-python GetStore.py
+# 写入文件
+echo "import ltscaddstore" > ltscaddstore.py
+echo "ltscaddstore.download()" >> ltscaddstore.py                      
+# 
+python ltscaddstore.py
 ```
 
 ---
