@@ -24,14 +24,8 @@ pip install ltscaddstore -i https://mirror.sjtu.edu.cn/pypi/web/simple/
 ### 2.运行脚本
 
 ```
-# 写入文件
-echo "import ltscaddstore" > ltscaddstore.py
-echo "ltscaddstore.download()" >> ltscaddstore.py
-# 运行
-python ltscaddstore.py
+python -c "import ltscaddstore; ltscaddstore.download();"
 ```
-
-
 
 ## 软件来源
 
