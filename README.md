@@ -1,4 +1,4 @@
-## Windows LTSC Microsoft Store 最新版下载安装脚本
+## Windows Microsoft Store 最新版下载安装脚本
 支持 arm arm64 x86 x64单架构安装,支持以下版本的安装和更新
 - Windows LTSC 2021
 - Windows LTSC 2019
