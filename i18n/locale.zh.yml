@@ -1,0 +1,19 @@
+zh:
+  script-name: 脚本名称:LTSC 微软商店 最新版下载脚本
+  gtihub-repo: Github项目地址:https://github.com/Goojoe/LTSC-ADD-Microsoft-Store
+  author: 咕咕乔
+  selective-architecture: 请选择架构(输入数字)
+  proxy: 是否需要配置HTTP代理(y/n)
+  input_proxy: 请输入HTTP代理,例子:(127.0.0.1:1080)
+  no-proxy-required: 不需要代理
+  input-error: 输入错误,退出
+  in-the-request: 请求中,请等待,失败可尝试配置代理
+  request-successful: 请求成功,请耐心等待下载文件
+  request-failed: 请求失败,请尝试配置代理
+  download-successfully: 下载成功
+  download-failure: 下载失败
+  creating-an-installation-script: 创建安装脚本
+  the-installation-script-already-exists: 安装脚本已存在,停止创建
+  installation-instructions: "右键使用Powershell执行install_ms-store.ps1即可,若出现: 禁止在此系统执行脚本，请以<管理员>权限打开Powershell,执行:"
+  command-copied: "命令已复制到剪贴板，可以Ctrl + V 或鼠标右键PowerShell窗口粘贴"
+  open-download-folder: 下载完成,5秒后自动打开文件夹
