@@ -1,0 +1,19 @@
+de:
+  script-name: Skriptname: LTSC Microsoft Store Neueste Version herunterladen Skript
+  gtihub-repo: GitHub-Repository: https://github.com/Goojoe/LTSC-ADD-Microsoft-Store
+  author: "Autor: Goojoe"
+  selective-architecture: Bitte wählen Sie die Architektur aus (Geben Sie eine Zahl ein)
+  proxy: Benötigen Sie eine Konfiguration für einen HTTP-Proxy? (j/n)
+  input_proxy: Bitte geben Sie den HTTP-Proxy ein, Beispiel: (127.0.0.1:1080)
+  no-proxy-required: Kein Proxy erforderlich
+  input-error: Eingabefehler, Abbruch
+  in-the-request: Anfrage wird bearbeitet, bitte warten. Falls fehlgeschlagen, versuchen Sie es mit der Konfiguration eines Proxys
+  request-successful: Anfrage erfolgreich, bitte warten Sie auf den Download der Datei
+  request-failed: Anfrage fehlgeschlagen, versuchen Sie es mit der Konfiguration eines Proxys
+  download-successfully: Download erfolgreich
+  download-failure: Download fehlgeschlagen
+  creating-an-installation-script: Installations-Skript wird erstellt
+  the-installation-script-already-exists: Das Installations-Skript existiert bereits, Erstellung wird abgebrochen
+  installation-instructions: "Klicken Sie mit der rechten Maustaste auf install_ms-store.ps1 und führen Sie es mit PowerShell aus. Falls folgende Fehlermeldung angezeigt wird: Ausführung von Skripten auf diesem System wurde deaktiviert, öffnen Sie bitte PowerShell als <Administrator> und führen Sie folgenden Befehl aus:"
+  command-copied: "Der Befehl wurde in die Zwischenablage kopiert. Fügen Sie ihn ein mit Strg + V oder klicken Sie mit der rechten Maustaste im PowerShell-Fenster, um ihn einzufügen"
+  open-download-folder: Download abgeschlossen, Ordner wird in 5 Sekunden automatisch geöffnet

@@ -1,0 +1,19 @@
+ja:
+  script-name: スクリプト名：LTSC Microsoftストア最新バージョンのダウンロードスクリプト
+  gtihub-repo: GitHubリポジトリ：https://github.com/Goojoe/LTSC-ADD-Microsoft-Store
+  author: 作者：咕咕乔
+  selective-architecture: アーキテクチャを選択してください（数字を入力してください）
+  proxy: HTTPプロキシの設定が必要ですか？ (y/n)
+  input_proxy: HTTPプロキシを入力してください。例：（127.0.0.1:1080）
+  no-proxy-required: プロキシは必要ありません
+  input-error: 入力エラー、終了します
+  in-the-request: リクエスト中です。お待ちください。失敗した場合はプロキシの設定を試してください
+  request-successful: リクエストに成功しました。ファイルのダウンロードが完了するまでお待ちください
+  request-failed: リクエストに失敗しました。プロキシの設定を試してみてください
+  download-successfully: ダウンロードが成功しました
+  download-failure: ダウンロードに失敗しました
+  creating-an-installation-script: インストールスクリプトを作成しています
+  the-installation-script-already-exists: インストールスクリプトは既に存在しています。作成を停止します
+  installation-instructions: "Powershellでinstall_ms-store.ps1を右クリックして実行してください。次のエラーメッセージが表示された場合は、管理者権限でPowershellを開き、次のコマンドを実行してください："
+  command-copied: "コマンドはクリップボードにコピーされました。Ctrl + Vで貼り付けるか、PowerShellウィンドウで右クリックして貼り付けてください"
+  open-download-folder: ダウンロードが完了しました。5秒後にフォルダが自動的に開きます

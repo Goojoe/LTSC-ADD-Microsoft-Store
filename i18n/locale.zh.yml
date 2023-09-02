@@ -1,7 +1,7 @@
 zh:
   script-name: 脚本名称:LTSC 微软商店 最新版下载脚本
   gtihub-repo: Github项目地址:https://github.com/Goojoe/LTSC-ADD-Microsoft-Store
-  author: 咕咕乔
+  author: 作者：咕咕乔
   selective-architecture: 请选择架构(输入数字)
   proxy: 是否需要配置HTTP代理(y/n)
   input_proxy: 请输入HTTP代理,例子:(127.0.0.1:1080)

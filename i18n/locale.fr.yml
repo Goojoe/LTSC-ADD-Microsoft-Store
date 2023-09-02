@@ -1,0 +1,19 @@
+fr:
+  script-name: Nom du script : Script de téléchargement de la dernière version de Microsoft Store LTSC
+  gtihub-repo: Adresse du dépôt GitHub : https://github.com/Goojoe/LTSC-ADD-Microsoft-Store
+  author: "Auteur : Goojoe"
+  selective-architecture: Veuillez sélectionner l'architecture (entrer un chiffre)
+  proxy: Avez-vous besoin de configurer un proxy HTTP ? (o/n)
+  input_proxy: Veuillez entrer le proxy HTTP, par exemple : (127.0.0.1:1080)
+  no-proxy-required: Aucun proxy requis
+  input-error: Erreur de saisie, sortie
+  in-the-request: Requête en cours, veuillez patienter. En cas d'échec, veuillez essayer de configurer un proxy
+  request-successful: Requête réussie, veuillez patienter pendant le téléchargement du fichier
+  request-failed: Échec de la requête, veuillez essayer de configurer un proxy
+  download-successfully: Téléchargement réussi
+  download-failure: Échec du téléchargement
+  creating-an-installation-script: Création du script d'installation en cours
+  the-installation-script-already-exists: Le script d'installation existe déjà, arrêt de la création
+  installation-instructions: "Cliquez avec le bouton droit sur install_ms-store.ps1 et exécutez-le avec PowerShell. Si vous obtenez l'erreur : Impossible d'exécuter ce script sur ce système, veuillez ouvrir PowerShell en tant qu'<administrateur> et exécuter la commande suivante :"
+  command-copied: "La commande a été copiée dans le presse-papiers. Vous pouvez la coller en utilisant Ctrl + V ou en cliquant avec le bouton droit de la souris dans la fenêtre PowerShell"
+  open-download-folder: Téléchargement terminé, ouverture automatique du dossier dans 5 secondes

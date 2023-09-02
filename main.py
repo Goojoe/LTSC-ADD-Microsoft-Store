@@ -16,11 +16,26 @@ def download():
     # 选择语言
     i18n.load_path.append("i18n")
     print("Please select language:")
-    language = int(input("1 English\n2 中文\n:"))
+    language = int(input("""
+1 English
+2 简体中文
+3 Français
+4 日本語
+5 Deutsch
+6 Español
+"""))
     if language == 1:
         i18n.set("locale", "en")
     elif language == 2:
         i18n.set("locale", "zh")
+    elif language == 3:
+        i18n.set("locale", "fr")
+    elif language == 4:
+        i18n.set("locale", "jp")
+    elif language == 5:
+        i18n.set("locale", "de")
+    elif language == 6:
+        i18n.set("locale", "es")
     else:
         print("Input error, exiting")
 
