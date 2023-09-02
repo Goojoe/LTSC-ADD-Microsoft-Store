@@ -31,7 +31,7 @@ def download():
     elif language == 3:
         i18n.set("locale", "fr")
     elif language == 4:
-        i18n.set("locale", "jp")
+        i18n.set("locale", "ja")
     elif language == 5:
         i18n.set("locale", "de")
     elif language == 6:

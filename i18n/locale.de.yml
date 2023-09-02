@@ -1,10 +1,10 @@
 de:
-  script-name: Skriptname: LTSC Microsoft Store Neueste Version herunterladen Skript
-  gtihub-repo: GitHub-Repository: https://github.com/Goojoe/LTSC-ADD-Microsoft-Store
+  script-name: "Skriptname: LTSC Microsoft Store Neueste Version herunterladen Skript"
+  gtihub-repo: "GitHub-Repository: https://github.com/Goojoe/LTSC-ADD-Microsoft-Store"
   author: "Autor: Goojoe"
   selective-architecture: Bitte wählen Sie die Architektur aus (Geben Sie eine Zahl ein)
   proxy: Benötigen Sie eine Konfiguration für einen HTTP-Proxy? (j/n)
-  input_proxy: Bitte geben Sie den HTTP-Proxy ein, Beispiel: (127.0.0.1:1080)
+  input_proxy: "Bitte geben Sie den HTTP-Proxy ein, Beispiel: (127.0.0.1:1080)"
   no-proxy-required: Kein Proxy erforderlich
   input-error: Eingabefehler, Abbruch
   in-the-request: Anfrage wird bearbeitet, bitte warten. Falls fehlgeschlagen, versuchen Sie es mit der Konfiguration eines Proxys
