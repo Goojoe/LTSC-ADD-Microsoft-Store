@@ -12,9 +12,10 @@ Supports installation on arm, arm64, x86, and x64 architectures, and supports in
 ## Download and Run
 
 1. No Python environment required:
+
 Download and run [https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases ↗](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/download/latest/MS-Store-Downloader.exe)
 
-2. Python environment installation required:
+3. Python environment installation required:
 
 ```
 pip install -r requirements.txt
