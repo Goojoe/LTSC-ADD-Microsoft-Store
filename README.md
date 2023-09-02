@@ -30,6 +30,6 @@ python main.py
 
 ## About Republishing
 
-Copyright belongs to `Microsoft`, commercial use is prohibited.
+The version belongs to me, commercial use is prohibited
 
 Feel free to republish, but ⚠️ it is not allowed to require "replying," "logging in," "following official accounts," "purchasing with points," or any other form that does not allow direct downloading.
