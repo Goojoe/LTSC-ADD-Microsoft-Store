@@ -13,7 +13,7 @@ Supports installation on arm, arm64, x86, and x64 architectures, and supports in
 
 1. No Python environment required:
 
-Download and run [https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases ↗](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases/download/latest/MS-Store-Downloader.exe)
+Download and run https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases
 
 3. Python environment installation required:
 
@@ -24,7 +24,7 @@ python main.py
 
 ## Software Source
 
-> All software is sourced from [https://store.rg-adguard.net/ ↗](https://store.rg-adguard.net/)
+> All software is sourced from https://store.rg-adguard.net
 >
 > URL (Link) `https://www.microsoft.com/store/productId/9WZDNCRFJBMP` RP
 
