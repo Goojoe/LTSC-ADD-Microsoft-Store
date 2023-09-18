@@ -16,14 +16,18 @@ def download():
     # 选择语言
     i18n.load_path.append("i18n")
     print("Please select language:")
-    language = int(input("""
+    language = int(
+        input(
+            """
 1 English
 2 简体中文
 3 Français
 4 日本語
 5 Deutsch
 6 Español
-"""))
+"""
+        )
+    )
     if language == 1:
         i18n.set("locale", "en")
     elif language == 2:
@@ -99,7 +103,9 @@ def download():
     data = {"type": "url", "url": store_url}
 
     # API请求
-    response = requests.post(url=api_url, data=data, headers=headers, proxies=proxies)
+    response = requests.post(
+        url=api_url, data=data, headers=headers, proxies=proxies, verify=True
+    )
 
     response.encoding = "utf-8"
 
@@ -140,7 +146,7 @@ Write-Output "==========================================="
 pause
 """
     if not os.path.exists(f"{save_path_root}/install_ms-store.ps1"):
-        print({i18n.t("locale.creating-an-installation-script")})
+        print(i18n.t("locale.creating-an-installation-script"))
         with open(f"{save_path_root}/install_ms-store.ps1", "w") as install_file:
             install_file.write(install_file_content)
             install_file.close()
