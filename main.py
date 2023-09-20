@@ -13,33 +13,33 @@ def download():
         loader = yaml.FullLoader
 
     i18n.register_loader(MyLoader, ["yml", "yaml"])
+
     # 选择语言
     i18n.load_path.append("i18n")
+
     print("Please select language:")
-    language = int(
-        input(
-            """
-1 English
-2 简体中文
-3 Français
-4 日本語
-5 Deutsch
-6 Español
-"""
-        )
-    )
-    if language == 1:
-        i18n.set("locale", "en")
-    elif language == 2:
-        i18n.set("locale", "zh")
-    elif language == 3:
-        i18n.set("locale", "fr")
-    elif language == 4:
-        i18n.set("locale", "ja")
-    elif language == 5:
-        i18n.set("locale", "de")
-    elif language == 6:
-        i18n.set("locale", "es")
+    print("""
+    1 English
+    2 简体中文
+    3 Français
+    4 日本語
+    5 Deutsch
+    6 Español
+    """)
+    language = int(input())
+
+    languages = {
+        1: "en",
+        2: "zh",
+        3: "fr",
+        4: "ja",
+        5: "de",
+        6: "es"
+    }
+
+    if language in languages:
+        selected_language = languages[language]
+        i18n.set("locale", selected_language)
     else:
         print("Input error, exiting")
 

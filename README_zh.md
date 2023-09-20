@@ -9,12 +9,9 @@
 
 ## 下载和运行
 
-1. 无需Python环境：
+1. 需要手动安装Python环境：
 
-下载并运行 https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases
-
-3. 需要手动安装Python环境：
-
+下载仓库：https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 ```
 pip install -r requirements.txt
 python main.py

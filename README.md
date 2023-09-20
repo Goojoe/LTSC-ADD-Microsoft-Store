@@ -11,12 +11,9 @@ Supports installation on arm, arm64, x86, and x64 architectures, and supports in
 
 ## Download and Run
 
-1. No Python environment required:
+1. To manually install the Python environment:
 
-Download and run https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/releases
-
-3. Python environment installation required:
-
+Download the warehouse: https://github.com/Goojoe/LTSC-ADD-Microsoft-Store/archive/refs/heads/master.zip
 ```
 pip install -r requirements.txt
 python main.py
