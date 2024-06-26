@@ -30,3 +30,15 @@ python main.py
 The version belongs to me, commercial use is prohibited
 
 Feel free to republish, but ⚠️ it is not allowed to require "replying," "logging in," "following official accounts," "purchasing with points," or any other form that does not allow direct downloading.
+
+
+> Ban csdn and gitcode keyword (This has nothing to do with the project, please don't mind it)
+飞机杯
+picacg 
+e-hentai/exhentai 
+jmcomic
+hitomi
+绅士漫画
+nhentai
+
+
